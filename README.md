@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DevTinder
 
 - Create a Vite + React application
@@ -41,3 +42,6 @@ Body
     Route=/login  => Login
     Route=/connetions => Connections
     Router=/profile => Profile
+=======
+# devTinder-frontend
+>>>>>>> 8572487c0f6469e23511ce9af4b922113c652a9e
